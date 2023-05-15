@@ -1,0 +1,17 @@
+REFERENCE_YEAR,DISTRICT_NAME,DISTRICT_ID,TALUKA_NAME,TALUKA_ID,RICE,WHEAT/_Missing,JOWARR/_Missing,BAJRA/_Missing,BARLEY/_Missing,MAIZE/_Missing,RAGI/_Missing,OTHR_CEREALS/_Missing,GRAM/_Missing,TUR/_Missing,MUNG/_Missing,UDID/_Missing,MASOOR/_Missing,OTR_PULSES/_Missing,SUGARCANE/_Missing,OTHER_SPICES/_Missing,COTTON/_Missing,MESTA/_Missing,LINSEED_JAWAS/_Missing,GROUNDNUTS/_Missing,SUNFLOWER/_Missing,SESAMUM/_Missing,SOYABEAN/_Missing,OTR_OILSEEDS/_Missing,TOBACCO/_Missing,MEDICINAL/_Missing,RAGI,RICE/_Missing,OTHR_CEREALS,GROUNDNUTS
+2011-12,Raigarh,520,Uran,4172,5100,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,,,
+2011-12,Raigarh,520,Panvel,4173,19300,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,,,
+2011-12,Raigarh,520,Karjat,4174,24700,.,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,300,,,
+2011-12,Raigarh,520,Khalapur,4175,15500,.,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,200,,,
+2011-12,Raigarh,520,Pen,4176,32000,.,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,300,,,
+2011-12,Raigarh,520,Alibag,4177,43400,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,,,
+2011-12,Raigarh,520,Murud,4178,10900,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,,,
+2011-12,Raigarh,520,Roha,4179,12000,.,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,1200,,,
+2011-12,Raigarh,520,Sudhagad,4180,15500,.,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,300,,,
+2011-12,Raigarh,520,Mangaon,4181,33100,.,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,1600,,,
+2011-12,Raigarh,520,Tala,4182,29700,.,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,300,,,
+2011-12,Raigarh,520,Shrivardhan,4183,5200,.,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,300,,,
+2011-12,Raigarh,520,Mhasla,4184,5700,.,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,300,,,
+2011-12,Raigarh,520,Mahad,4185,36400,.,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,1600,,,
+2011-12,Raigarh,520,Poladpur,4186,5800,.,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,1800,,,
+2011-12,Raigarh,520,Districtlevel_Raigarh,9924,,.,.,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,.,.,,.,1800,500

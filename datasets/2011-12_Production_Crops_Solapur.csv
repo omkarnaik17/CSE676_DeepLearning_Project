@@ -1,0 +1,13 @@
+REFERENCE_YEAR,DISTRICT_NAME,DISTRICT_ID,TALUKA_NAME,TALUKA_ID,RICE/_Missing,WHEAT,JOWARR,BAJRA,BARLEY/_Missing,MAIZE,RAGI/_Missing,OTHR_CEREALS/_Missing,GRAM,TUR,MUNG,UDID/_Missing,MASOOR/_Missing,OTR_PULSES/_Missing,SUGARCANE,OTHER_SPICES/_Missing,COTTON/_Missing,MESTA/_Missing,LINSEED_JAWAS/_Missing,GROUNDNUTS/_Missing,SUNFLOWER,SESAMUM/_Missing,SOYABEAN/_Missing,OTR_OILSEEDS/_Missing,TOBACCO/_Missing,MEDICINAL/_Missing,BAJRA/_Missing,MUNG/_Missing,UDID,GROUNDNUTS,TUR/_Missing,RICE,JOWARR/_Missing,GRAM/_Missing,SUGARCANE/_Missing,SUNFLOWER/_Missing
+2011-12,Solapur,526,Karmala,4244,.,2027,29058,99,.,46605,.,.,799,109,18,.,.,.,1183000,.,.,.,.,.,888,.,.,.,.,.,,,,,,,,,,
+2011-12,Solapur,526,Madha,4245,.,1442,19446,,.,3439,.,.,658,6,,.,.,.,1154508,.,.,.,.,.,105,.,.,.,.,.,.,.,,,,,,,,
+2011-12,Solapur,526,Barshi,4246,.,4844,23794,85,.,2300,.,.,7269,1776,167,,.,.,118420,.,.,.,.,,78,.,.,.,.,.,,,1203,34,,,,,,
+2011-12,Solapur,526,Solapur North,4247,.,3918,12536,4,.,538,.,.,348,174,4,,.,.,256425,.,.,.,.,,275,.,.,.,.,.,,,6,45,,,,,,
+2011-12,Solapur,526,Mohol,4248,.,2568,14268,7,.,2614,.,.,526,131,5,,.,.,2449150,.,.,.,.,,2,.,.,.,.,.,,,9,51,,,,,,
+2011-12,Solapur,526,Pandharpur,4249,.,4218,1687,50,.,7552,.,.,443,61,5,.,.,.,2192082,.,.,.,.,.,3,.,.,.,.,.,,,,,,,,,,
+2011-12,Solapur,526,Malshiras,4250,.,6641,6348,240,.,8861,.,.,1142,24,30,.,.,.,1506750,.,.,.,.,,165,.,.,.,.,.,,,,41,,,,,,
+2011-12,Solapur,526,Sangole,4251,.,1561,1699,608,.,936,.,.,186,,,.,.,.,36400,.,.,.,.,.,24,.,.,.,.,.,,.,,,.,,,,,
+2011-12,Solapur,526,Mangalvedhe,4252,.,435,7452,623,.,1027,.,.,244,24,40,,.,.,410557,.,.,.,.,,51,.,.,.,.,.,,,6,50,,,,,,
+2011-12,Solapur,526,Solapur South,4253,.,3085,23493,28,.,170,.,.,1071,251,63,,.,.,472860,.,.,.,.,,83,.,.,.,.,.,,,12,422,,,,,,
+2011-12,Solapur,526,Akkalkot,4254,,5027,33095,106,.,628,.,.,6832,1524,194,,.,.,131040,.,.,.,.,,568,.,.,.,.,.,,,1567,149,,8,,,,
+2011-12,Solapur,526,Districtlevel_Solapur,9930,.,35766,,1850,.,74670,.,.,,,526,.,.,.,,.,.,.,.,.,,.,.,.,.,.,,,,,.,,.,.,.,.
